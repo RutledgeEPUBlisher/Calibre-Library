@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5c37297-8703-446f-8260-cea1f46e6468</dc:identifier>
+        <dc:title>Heir to the name RUTLEDGE</dc:title>
+        <dc:creator opf:file-as="Rutledge, Troy Anthony Woolls" opf:role="aut">Rutledge, Troy Anthony Woolls</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-11T13:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;An exploration into the identity of the surname RUTLEDGE looks into its Historical, Tribal, Genealogical, Geographical and Etymology origins.&lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Rutledge EPUBlisher</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780648379102</dc:identifier>
+        <dc:identifier opf:scheme="URN">isbn:9780648379102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family history</dc:subject>
+        <dc:subject>ebook</dc:subject>
+        <dc:subject>tracing ancestors; Historical &amp; comparative linguistics;</dc:subject>
+        <meta content="{&quot;Rutledge, Troy Anthony Woolls&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Origin of Rutledge" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="2018-09-12T14:16:06+00:00" name="calibre:timestamp"/>
+        <meta content="Heir to the name RUTLEDGE" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
