@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:a5c37297-8703-446f-8260-cea1f46e6468" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Heir to the name RUTLEDGE</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1">
+      <navLabel>
+        <text>Heir to the name RUTLEDGE</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="Text/copyright-page.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="Text/Dedication.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>Series Page</text>
+      </navLabel>
+      <content src="Text/seriespage.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="Text/preface.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="Text/aboutauthor.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint7">
+      <navLabel>
+        <text>Etymology of the surname Rutledge</text>
+      </navLabel>
+      <content src="Text/Section001-Etymology.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>Tribal Origins of the Rutledges</text>
+      </navLabel>
+      <content src="Text/Section0002-Tribal.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

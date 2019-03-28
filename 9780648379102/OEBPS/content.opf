@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">Heir to the name RUTLEDGE</dc:title>
+    <meta refines="#id" property="file-as">Heir to the name RUTLEDGE</meta>
+    <meta refines="#id" property="title-type">main</meta>
+    <dc:creator id="id-1">Troy Anthony Woolls Rutledge</dc:creator>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Rutledge, Troy Anthony Woolls</meta>
+    <dc:rights>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.</dc:rights>
+    <dc:identifier id="isbn_id">urn:isbn:9780648379102</dc:identifier>
+    <dc:identifier>urn:uuid:a5c37297-8703-446f-8260-cea1f46e6468</dc:identifier>
+    <dc:date>2014-01-11T13:00:00+00:00</dc:date>
+    <dc:description>A Historical, Tribal, Genealogical, Geographical and Etymology exploration of the surname RUTLEDGE.</dc:description>
+    <dc:publisher>Troy Anthony Woolls Rutledge</dc:publisher>
+    <dc:subject>Family history, tracing ancestors</dc:subject>
+    <meta property="belongs-to-collection" id="id-2">Origin of Rutledge</meta>
+    <meta refines="#id-2" property="collection-type">series</meta>
+    <meta refines="#id-2" property="group-position">1</meta>
+    <dc:format>application/xhtml+xml</dc:format>
+    <dc:language>en</dc:language>
+    <dc:identifier id="bookid">urn:uuid:a5c37297-8703-446f-8260-cea1f46e6468</dc:identifier>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2019-03-15T21:46:34Z</meta>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 AA.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta name="Sigil version" content="0.9.10" />
+  </metadata>
+  <manifest>
+    <item id="Angeln.jpg" href="Images/Angeln.jpg" media-type="image/jpeg"/>
+    <item id="Angeln_40px.jpg" href="Images/Angeln_40px.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_Cross_5.jpg" href="Images/Bewcastle_Cross_5.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_Cross_5_40px.jpg" href="Images/Bewcastle_Cross_5_40px.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_aerial_40px.jpg" href="Images/Bewcastle_aerial_40px.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_fort-3.jpg" href="Images/Bewcastle_fort-3.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_fort-3_40px.jpg" href="Images/Bewcastle_fort-3_40px.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_fort.JPG" href="Images/Bewcastle_fort.JPG" media-type="image/jpeg"/>
+    <item id="Bewcastle_fort_40px.JPG" href="Images/Bewcastle_fort_40px.JPG" media-type="image/jpeg"/>
+    <item id="Bewcastle_ramparts.jpg" href="Images/Bewcastle_ramparts.jpg" media-type="image/jpeg"/>
+    <item id="Bewcastle_ramparts_40px.jpg" href="Images/Bewcastle_ramparts_40px.jpg" media-type="image/jpeg"/>
+    <item id="Blaeu_1645_-_Germaniae_veteris_typus.jpg" href="Images/Blaeu_1645_-_Germaniae_veteris_typus.jpg" media-type="image/jpeg"/>
+    <item id="Blaeu_1645_-_Germaniae_veteris_typus_40px.jpg" href="Images/Blaeu_1645_-_Germaniae_veteris_typus_40px.jpg" media-type="image/jpeg"/>
+    <item id="Border_Marches.jpg" href="Images/Border_Marches.jpg" media-type="image/jpeg"/>
+    <item id="Border_Marches_40px.jpg" href="Images/Border_Marches_40px.jpg" media-type="image/jpeg"/>
+    <item id="Border_features-114.jpg" href="Images/Border_features-114.jpg" media-type="image/jpeg"/>
+    <item id="Border_features-114_40px.jpg" href="Images/Border_features-114_40px.jpg" media-type="image/jpeg"/>
+    <item id="Combined_logo_prepublication_300dpi.jpg" href="Images/Combined_logo_prepublication_300dpi.jpg" media-type="image/jpeg"/>
+    <item id="Dedication.xhtml" href="Text/Dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MapAD010.jpg" href="Images/MapAD010.jpg" media-type="image/jpeg"/>
+    <item id="MapAD010_40px.jpg" href="Images/MapAD010_40px.jpg" media-type="image/jpeg"/>
+    <item id="MapAD121_475.jpg" href="Images/MapAD121_475.jpg" media-type="image/jpeg"/>
+    <item id="Routledge_Burn_bridge.jpg" href="Images/Routledge_Burn_bridge.jpg" media-type="image/jpeg"/>
+    <item id="Routledge_Burn_bridge_40px.jpg" href="Images/Routledge_Burn_bridge_40px.jpg" media-type="image/jpeg"/>
+    <item id="Routledge_Burn_farm.jpg" href="Images/Routledge_Burn_farm.jpg" media-type="image/jpeg"/>
+    <item id="Routledge_Burn_farm_40px.jpg" href="Images/Routledge_Burn_farm_40px.jpg" media-type="image/jpeg"/>
+    <item id="Section0002-Tribal.xhtml" href="Text/Section0002-Tribal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section001-Etymology.xhtml" href="Text/Section001-Etymology.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="aboutauthor.xhtml" href="Text/aboutauthor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="added" href="Images/Bewcastle_fort_40px0001.jpg" media-type="image/jpeg"/>
+    <item id="bordermap.jpg" href="Images/bordermap.jpg" media-type="image/jpeg"/>
+    <item id="bordermap_40px.jpg" href="Images/bordermap_40px.jpg" media-type="image/jpeg"/>
+    <item id="bordernames.jpg" href="Images/bordernames.jpg" media-type="image/jpeg"/>
+    <item id="bordernames_40px.jpg" href="Images/bordernames_40px.jpg" media-type="image/jpeg"/>
+    <item id="borderreiver_WestWarden_map.jpg" href="Images/borderreiver_WestWarden_map.jpg" media-type="image/jpeg"/>
+    <item id="borderreiver_WestWarden_map_40px.jpg" href="Images/borderreiver_WestWarden_map_40px.jpg" media-type="image/jpeg"/>
+    <item id="copyright-page.xhtml" href="Text/copyright-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="image001-eu_40px.png" href="Images/image001-eu_40px.png" media-type="image/png"/>
+    <item id="image001.jpg" href="Images/image001.jpg" media-type="image/jpeg"/>
+    <item id="image001_40px.jpg" href="Images/image001_40px.jpg" media-type="image/jpeg"/>
+    <item id="image002.jpg" href="Images/image002.jpg" media-type="image/jpeg"/>
+    <item id="image002_40px.jpg" href="Images/image002_40px.jpg" media-type="image/jpeg"/>
+    <item id="image003.jpg" href="Images/image003.jpg" media-type="image/jpeg"/>
+    <item id="image003_40px.jpg" href="Images/image003_40px.jpg" media-type="image/jpeg"/>
+    <item id="image004.jpg" href="Images/image004.jpg" media-type="image/jpeg"/>
+    <item id="image004_40px.jpg" href="Images/image004_40px.jpg" media-type="image/jpeg"/>
+    <item id="image005.jpg" href="Images/image005.jpg" media-type="image/jpeg"/>
+    <item id="image005_40px.jpg" href="Images/image005_40px.jpg" media-type="image/jpeg"/>
+    <item id="image006.png" href="Images/image006.png" media-type="image/png"/>
+    <item id="image006_40px.png" href="Images/image006_40px.png" media-type="image/png"/>
+    <item id="image007.png" href="Images/image007.png" media-type="image/png"/>
+    <item id="image007_40px.png" href="Images/image007_40px.png" media-type="image/png"/>
+    <item id="image008.jpg" href="Images/image008.jpg" media-type="image/jpeg"/>
+    <item id="image008_40px.jpg" href="Images/image008_40px.jpg" media-type="image/jpeg"/>
+    <item id="image009.png" href="Images/image009.png" media-type="image/png"/>
+    <item id="image009_40px.png" href="Images/image009_40px.png" media-type="image/png"/>
+    <item id="image010.png" href="Images/image010.png" media-type="image/png"/>
+    <item id="image010_40px.png" href="Images/image010_40px.png" media-type="image/png"/>
+    <item id="image011.png" href="Images/image011.png" media-type="image/png"/>
+    <item id="image011_40px.png" href="Images/image011_40px.png" media-type="image/png"/>
+    <item id="image012_40px.png" href="Images/image012_40px.png" media-type="image/png"/>
+    <item id="image013.png" href="Images/image013.png" media-type="image/png"/>
+    <item id="image013_40px.png" href="Images/image013_40px.png" media-type="image/png"/>
+    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="onix-9780648379102.jsonld" href="Misc/onix-9780648379102.jsonld" media-type="application/ld+json"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="preface.xhtml" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="roman_britain_2.jpg" href="Images/roman_britain_2.jpg" media-type="image/jpeg"/>
+    <item id="roman_britain_2_40px.jpg" href="Images/roman_britain_2_40px.jpg" media-type="image/jpeg"/>
+    <item id="seriespage.xhtml" href="Text/seriespage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x311px-OldRedSandstoneBeddingPlane.jpg" href="Images/311px-OldRedSandstoneBeddingPlane.jpg" media-type="image/jpeg"/>
+    <item id="x311px-OldRedSandstoneBeddingPlane_40px.jpg" href="Images/311px-OldRedSandstoneBeddingPlane_40px.jpg" media-type="image/jpeg"/>
+    <item id="x501px-Yr.Hen.Ogledd.550.650.Koch.jpg" href="Images/501px-Yr.Hen.Ogledd.550.650.Koch.jpg" media-type="image/jpeg"/>
+    <item id="x501px-Yr.Hen.Ogledd.550.650.Koch_40px.jpg" href="Images/501px-Yr.Hen.Ogledd.550.650.Koch_40px.jpg" media-type="image/jpeg"/>
+    <item id="x559px-Central.Britain.c550.jpg" href="Images/559px-Central.Britain.c550.jpg" media-type="image/jpeg"/>
+    <item id="x757px-Roman_Empire_125_map.png" href="Images/757px-Roman_Empire_125_map.png" media-type="image/png"/>
+    <item id="x9780648379102.jpg" href="Images/9780648379102.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepage"/>
+    <itemref idref="copyright-page.xhtml"/>
+    <itemref idref="Dedication.xhtml"/>
+    <itemref idref="seriespage.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="aboutauthor.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="nav"/>
+    <itemref idref="Section001-Etymology.xhtml"/>
+    <itemref idref="Section0002-Tribal.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+    <reference type="title-page" title="Title Page" href="Text/titlepage.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/nav.xhtml"/>
+    <reference type="dedication" title="Dedication" href="Text/Dedication.xhtml"/>
+    <reference type="text" title="Text" href="Text/Section0002-Tribal.xhtml"/>
+  </guide>
+</package>
